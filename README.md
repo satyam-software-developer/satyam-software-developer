@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate Software Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-software-developer&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-software-developer" /> </p>
 
 - 🔭 I’m currently working on backend project [employee-review-system](https://github.com/satyam-software-developer/employee-review-system-backend.git)
 
-- 🌱 I’m currently learning **reactjs,nodejs,javascript , full stack web development**
+- 🌱 I’m currently learning **reactjs,nodejs,javascript , full stack web development.**
 
 - 👯 I’m created backend project [issue-tracker](https://github.com/satyam-software-developer/issue-tracker-backend.git)
 
@@ -15,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/satyam-software-developer](https://github.com/satyam-software-developer)
 
-- 💬 Ask me about **reactjs, nodejs expressjs,javascript , mongodb, mongoose**
+- 💬 Ask me about **reactjs, nodejs expressjs,javascript , mongodb, mongoose.**
 
 - 📫 How to reach me **kr.satyam0506@gmail.com**
 
@@ -41,7 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-software-developer&show_icons=true&locale=en" alt="satyam-software-developer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-software-developer&" alt="satyam-software-developer" /></p>
-
-
-
-
