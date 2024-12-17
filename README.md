@@ -1,4 +1,4 @@
-![logo](https://github.com/satyam-software-developer/satyam-software-developer/blob/main/satyam_logo2.webp)
+![logo](https://github.com/satyam-software-developer/satyam-software-developer/blob/main/github_logo.png)
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
