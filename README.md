@@ -124,5 +124,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-software-developer&" alt="satyam-software-developer" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-software-developer" alt="satyam-software-developer" />
 </p>
