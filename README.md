@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-software-developer&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-software-developer" /> </p>
-
 - 🔭 I’m currently working on backend project [employee-review-system](https://github.com/satyam-software-developer/employee-review-system-backend.git)
 - 🌱 I’m currently learning **react js, node js, javascript, full stack web development**
 - 👯 I’ve created a backend project [issue-tracker](https://github.com/satyam-software-developer/issue-tracker-backend.git)
@@ -11,7 +10,6 @@
 - 💬 Ask me about **react js, node js express js, javascript, MongoDB, mongoose**
 - 📫 How to reach me **kr.satyam0506@gmail.com**
 - ⚡ Fun fact **I am funny😂**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/satyam-kumar-12a848214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-kumar-12a848214" height="30" width="40" /></a>
@@ -23,7 +21,6 @@
   <a href="https://www.hackerearth.com/@kr.satyam0506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/krsatyam0506/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
