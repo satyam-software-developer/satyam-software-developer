@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on backend project [employee-review-system](https://github.com/satyam-software-developer/employee-review-system-backend.git)
 - 🌱 I’m currently learning **react js, node js, javascript, full stack web development.**
 - 👯 I’ve created a backend project [issue-tracker](https://github.com/satyam-software-developer/issue-tracker-backend.git)
+- 👯 I’ve created a backend project [ecommerce-api](https://github.com/satyam-software-developer/ecommerce-api.git)
 - 🤝 I’ve created frontend project [react-chat-app](https://github.com/satyam-software-developer/react-chat-app.git)
 - 👨‍💻 All of my projects are available at [https://github.com/satyam-software-developer](https://github.com/satyam-software-developer)
 - 💬 Ask me about **react js, node js express js, javascript, MongoDB, mongoose.**
