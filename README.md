@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-software-developer&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-software-developer" /> </p>
 
 - 🔭 I’m currently working on backend project [employee-review-system](https://github.com/satyam-software-developer/employee-review-system-backend.git)
-- 🌱 I’m currently learning **react js, node js, javascript, full stack web development.**
+- 🌱 I’ve learned **react js, node js, express js, MongoDB, mongoose, javascript, HTML, and CSS for  full stack web development.**
 - 👯 I’ve created a backend project [issue-tracker](https://github.com/satyam-software-developer/issue-tracker-backend.git)
 - 👯 I’ve created a backend project [ecommerce-api](https://github.com/satyam-software-developer/ecommerce-api.git)
 - 🤝 I’ve created a frontend project [react-chat-app](https://github.com/satyam-software-developer/react-chat-app.git)
