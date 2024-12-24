@@ -12,7 +12,9 @@
 - 🤝 I’ve created a frontend project [todolist-react-app](https://github.com/satyam-software-developer/todolist-react-app.git)
 - 🤝 I’ve created a frontend project [superhero-hunter-vanilla-javascript](https://github.com/satyam-software-developer/superhero-hunter-vanilla-javascript.git)
 - 👨‍💻 All of my projects are available at [https://github.com/satyam-software-developer](https://github.com/satyam-software-developer)
-- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, and Mongoose.**
+- ### 💬 Ask Me About  
+**JavaScript**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Mongoose**.  
+I'm always happy to share knowledge and discuss anything about **Full Stack Web Development**! 🚀
 - 📫 How to reach me **kr.satyam0506@gmail.com**
 - ⚡ Fun fact **I am funny😂**
 
