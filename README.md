@@ -157,7 +157,7 @@ I'm always happy to share knowledge and discuss anything about **Full Stack Web 
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-software-developer&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages - satyam-software-developer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-software-developer&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages - satyam-software-developer" />
 </p>
 
 
