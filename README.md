@@ -157,16 +157,17 @@ I'm always happy to share knowledge and discuss anything about **Full Stack Web 
 
 
 
+
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-software-developer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages - satyam-software-developer" />
 </p>
 
-
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-software-developer&show_icons=true&locale=en" alt="GitHub Stats - satyam-software-developer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-software-developer&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats - satyam-software-developer" />
 </p>
 
-
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-software-developer" alt="GitHub Streak Stats - satyam-software-developer" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-software-developer&theme=tokyonight" alt="GitHub Streak Stats - satyam-software-developer" />
 </p>
+
