@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-software-developer&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-software-developer" /> </p>
 
-* 🌱 **Tech Stack:** **Java**, **Spring Boot**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **Mongoose**.
-* 💻 Passionate about building scalable, secure, and high-performance **Full Stack Web Applications** as a **Full Stack Software Engineer**.
+- 🌱 **Tech Stack:** **Java**, **Spring Boot**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **Mongoose**.
+- 💻 Passionate about building scalable, secure, and high-performance **Full Stack Web Applications** as a **Full Stack Software Engineer**.
 - 🔭 I’m currently working on backend project [hospital-management-system-spring-boot](https://github.com/satyam-software-developer/hospital-management-system-spring-boot.git)
 - 👯 I’ve created a backend project [issue-tracker](https://github.com/satyam-software-developer/issue-tracker-backend.git)
 - 👯 I’ve created a backend project [ecommerce-api-nodejs](https://github.com/satyam-software-developer/ecommerce-api-nodejs.git)
@@ -18,7 +18,7 @@
 - 🤝 I’ve created a frontend project [react-calculator](https://github.com/satyam-software-developer/react-calculator.git)
 - 🤝 I’ve created a frontend project [superhero-hunter-vanilla-javascript](https://github.com/satyam-software-developer/superhero-hunter-vanilla-javascript.git)
 - 👨‍💻 All of my projects are available at [https://github.com/satyam-software-developer](https://github.com/satyam-software-developer)
-* 💬 **Ask me about:** **Java**, **Spring Boot**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **Mongoose**. I'm always happy to discuss **Full Stack Software Development**, **REST APIs**, **System Design**, and modern web technologies. 🚀
+- 💬 **Ask me about:** **Java**, **Spring Boot**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **Mongoose**. I'm always happy to discuss **Full Stack Software Development**, **REST APIs**, **System Design**, and modern web technologies. 🚀
 - 📫 How to reach me **kr.satyam0506@gmail.com**
 - ⚡ Fun fact **I am funny😂**
 
