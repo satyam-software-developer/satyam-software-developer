@@ -7,7 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-software-developer&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-software-developer" /> </p>
 
 - 🔭 I’m currently working on backend project [hospital-management-system-spring-boot](https://github.com/satyam-software-developer/hospital-management-system-spring-boot.git)
-- 🌱 I’ve learned **JavaScript**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Mongoose** for **Full Stack Web Development**.
+* 🌱 **Tech Stack:** **Java**, **Spring Boot**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **Mongoose**.
+* 💻 Passionate about building scalable, secure, and high-performance **Full Stack Web Applications** as a **Full Stack Software Engineer**.
 - 👯 I’ve created a backend project [issue-tracker](https://github.com/satyam-software-developer/issue-tracker-backend.git)
 - 👯 I’ve created a backend project [ecommerce-api-nodejs](https://github.com/satyam-software-developer/ecommerce-api-nodejs.git)
 - 👯 I’ve created a backend project [employee-review-system](https://github.com/satyam-software-developer/employee-review-system.git)
