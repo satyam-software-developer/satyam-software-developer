@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on backend project [hospital-management-system-spring-boot](https://github.com/satyam-software-developer/hospital-management-system-spring-boot.git)
 - 🌱 I’ve learned **JavaScript**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Mongoose** for **Full Stack Web Development**.
 - 👯 I’ve created a backend project [issue-tracker](https://github.com/satyam-software-developer/issue-tracker-backend.git)
-- 👯 I’ve created a backend project [ecommerce-api](https://github.com/satyam-software-developer/ecommerce-api.git)
+- 👯 I’ve created a backend project [ecommerce-api-nodejs](https://github.com/satyam-software-developer/ecommerce-api-nodejs.git)
 - 🤝 I’ve created a frontend project [react-chat-app](https://github.com/satyam-software-developer/react-chat-app.git)
 - 🤝 I’ve created a frontend project [react-calculator](https://github.com/satyam-software-developer/react-calculator.git)
 - 🤝 I’ve created a frontend project [todolist-react-app](https://github.com/satyam-software-developer/todolist-react-app.git)
